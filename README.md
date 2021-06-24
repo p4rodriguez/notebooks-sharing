@@ -18,6 +18,9 @@ Your task is to insert launch links for both cases.
 
 *launch link goes here*
  
+ https://mybinder.org/v2/gh/p4rodriguez/notebooks-sharing/de332f978deb3eb3d9812bde87a552e1d2454008
+ 
+ 
 **Insert a MyBinder.org launch link for the [4-Predict.ipynb](notebooks/4-Predict.ipynb) notebook.**
 
 *launch link goes here*
